@@ -1,0 +1,15 @@
+VIVEK COMMAND 
+[VERSION 1.0.0]
+[COMMAND IS FREE]
+[METHOD 1 NEW]
+[METHOD 2 NEW]
+[METHOD 3 OLD BOTH]
+
+
+FOR NEPAL AND INDIA USER ALL METHOD ARE LUSH 
+
+rm-rf vivek 
+pkg install git
+pkg upgrade python 
+pkg udate -y && pkg upgrade -y git clone https://github.com/SANKI-EXE/SANKIv6
+cd SANKIv6 && python run.py
